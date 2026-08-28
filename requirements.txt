@@ -1,0 +1,7 @@
+aiogram>=3.0.0
+aiosqlite>=0.20.0
+aiohttp>=3.9.0
+pyrogram>=2.0.0
+TgCrypto>=1.2.0
+tonsdk>=1.0.13
+httpx>=0.27.0
